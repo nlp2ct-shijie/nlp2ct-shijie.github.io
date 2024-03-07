@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year graduate student majoring in Computer Science at the School of Science and Technology, University of Macau. My research direction is natural language processing.
+I am currently a first-year graduate student majoring in Computer Science at the Faculty of Science and Technology, University of Macau. My research direction is natural language processing.
